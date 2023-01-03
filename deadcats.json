@@ -1,0 +1,39 @@
+{
+  "name": "DeadCats WL",
+  "symbol": "DC",
+  "description": "Immutable, No Royalties, Just Art. 10,000 of Solana's finest. A collection by NftHellboy, inspired by Us.",
+  "seller_fee_basis_points": 100,
+  "external_url": "https://deadcatso.netlify.app",
+  "edition": "WhiteList",
+  "background_color": "000000",
+  "attributes": [
+    {
+      "trait_type": "Floor",
+      "value": "14.7 SOL"
+    },
+    {
+      "trait_type": "White List",
+      "value": "Free"
+    }
+  ],
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "B1NANQ8NAeYgSSz79gm1QW7pQcXFZXF2EqDNNGViXYZm",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://github.com/holydiamonds/nftfiles/blob/main/dead_cats.jpg?raw=true",
+        "file_type": "image/gif"
+      }
+    ]
+  },
+  "collection": {
+    "name": "DC",
+    "family": "WhiteList"
+  },
+  "image": "https://github.com/holydiamonds/nftfiles/blob/main/dead_cats.jpg?raw=true"
+}
